@@ -1,0 +1,3 @@
+[submodule "1_echo_server"]
+	path = 1_echo_server
+	url = https://github.com/VladimirAndropov/1_echo_server
